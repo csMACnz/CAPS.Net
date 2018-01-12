@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Product>CAPS.Net</Product>
+    <Copyright>Copyright © csMACnz 2018</Copyright>
+    <Description>Command-line Arguments Parser Simulator for .Net (C.A.P.S (dot Net))</Description>
+    <AssemblyTitle>csMACnz.Caps</AssemblyTitle>
+    <NeutralLanguage>en-NZ</NeutralLanguage>
+    <VersionPrefix>0.0.1</VersionPrefix>
+    <Authors>csMACnz</Authors>
+    <TargetFramework>netstandard1.0</TargetFramework>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <DebugType>full</DebugType>
+    <AssemblyName>csMACnz.Caps</AssemblyName>
+    <PackageId>csMACnz.Caps</PackageId>
+    <PackageLicenseUrl>https://github.com/csMACnz/CAPS.Net/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/csMACnz/CAPS.Net</PackageProjectUrl>
+    <PackageTags>cli parser; command-line; arguments parser</PackageTags>
+  </PropertyGroup>
+
+</Project>
