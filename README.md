@@ -1,6 +1,12 @@
 CAPS.Net
 ========
 
+[![License](http://img.shields.io/:license-mit-blue.svg)](https://csmacnz.mit-license.org)
+[![NuGet](https://img.shields.io/nuget/v/csMACnz.Caps.svg)](https://www.nuget.org/packages/csMACnz.Caps)
+[![NuGet](https://img.shields.io/nuget/dt/csMACnz.Caps.svg)](https://www.nuget.org/packages/csMACnz.Caps)
+
+[![AppVeyor Build status](https://img.shields.io/appveyor/ci/MarkClearwater/caps-net.svg)](https://ci.appveyor.com/project/MarkClearwater/caps-net)
+
 Command-line Arguments Parser Simulator for .Net (C.A.P.S (dot Net))
 
 The library to assist you in subcutaneous testing of Console Applications with command line arguments.
