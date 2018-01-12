@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <Product>CAPS.Net</Product>
+    <Title>CAPS.Net</Title>
     <Copyright>Copyright © csMACnz 2018</Copyright>
     <Description>Command-line Arguments Parser Simulator for .Net (C.A.P.S (dot Net))</Description>
     <AssemblyTitle>csMACnz.Caps</AssemblyTitle>

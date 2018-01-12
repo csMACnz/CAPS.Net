@@ -1,0 +1,14 @@
+version: 1.2.{build}
+build_script:
+- ps: >-
+    dotnet restore
+
+    dotnet build -c Release CAPS.Net.sln /property:VersionPrefix=$env:APPVEYOR_BUILD_VERSION
+
+    dotnet test -c Release .\test\csMACnz.Caps.Tests\csMACnz.Caps.Tests.csproj
+
+    dotnet pack -c Release -o ${pwd} .\src\csMACnz.Caps\csMACnz.Caps.csproj /property:VersionPrefix=$env:APPVEYOR_BUILD_VERSION
+test: off
+artifacts:
+- path: csMACnz.Caps.*.nupkg
+  name: nuget
