@@ -9,7 +9,18 @@ CAPS.Net
 
 Command-line Arguments Parser Simulator for .Net (C.A.P.S (dot Net))
 
-The library to assist you in subcutaneous testing of Console Applications with command line arguments.
+What this is
+------------
+
+A library to assist you in subcutaneous testing of Console Applications with command line arguments.
+
+What this isn't
+---------------
+
+A full command-line arguments intepreter libary or framework for your console application.
+
+Elevator Pitch
+--------------
 
 The command-line takes a string. But your application takes a list of strings.
 Sometimes you just want to provide one string and not the list, like your shell scripts do.
