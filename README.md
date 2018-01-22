@@ -1,6 +1,8 @@
 CAPS.Net
 ========
 
+<img align="right" width="256px" height="256px" src="http://img.csmac.nz/Caps-256.svg">
+
 [![License](http://img.shields.io/:license-mit-blue.svg)](https://csmacnz.mit-license.org)
 [![NuGet](https://img.shields.io/nuget/v/csMACnz.Caps.svg)](https://www.nuget.org/packages/csMACnz.Caps)
 [![NuGet](https://img.shields.io/nuget/dt/csMACnz.Caps.svg)](https://www.nuget.org/packages/csMACnz.Caps)
