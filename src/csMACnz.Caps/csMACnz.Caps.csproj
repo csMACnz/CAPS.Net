@@ -16,6 +16,7 @@
     <PackageId>csMACnz.Caps</PackageId>
     <PackageLicenseUrl>https://github.com/csMACnz/CAPS.Net/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/csMACnz/CAPS.Net</PackageProjectUrl>
+    <PackageIconUrl>http://img.csmac.nz/Caps-32-icon.png</PackageIconUrl>
     <PackageTags>cli parser; command-line; arguments parser</PackageTags>
   </PropertyGroup>
 
